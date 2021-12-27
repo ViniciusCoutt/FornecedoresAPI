@@ -1,0 +1,15 @@
+C:\dev\APIFornecedores\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+C:\dev\APIFornecedores\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+C:\dev\APIFornecedores\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+C:\dev\APIFornecedores\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
+C:\dev\APIFornecedores\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.runtimeconfig.json
+C:\dev\APIFornecedores\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.runtimeconfig.dev.json
+C:\dev\APIFornecedores\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.genruntimeconfig.cache
